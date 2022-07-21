@@ -58,5 +58,5 @@ df["Date"] = formatted_date
 
 
 file_date = formatted_date.strftime("%Y-%m-%d")
-path = pathlib.Path(f"../data/days/{file_date}-court_calendar.csv")
+path = pathlib.Path(f"./data/days/{file_date}-court_calendar.csv")
 df.to_csv(path, index = False)
