@@ -34,7 +34,7 @@ jobs:
         # Required mail subject:
         subject: Court Calendar Webscrape for {{env.TODAY}} at 8:00 am
         # Required recipients' addresses:
-        to: nmcmillan@npr.org
+        to: nmcmillan@npr.org, bvanwoerkom@npr.org
         # Required sender full name (address can be skipped):
         from: Nick McMillan # <user@example.com>
         # Optional whether this connection use TLS (default is true if server_port is 465)
