@@ -3,7 +3,7 @@ name: email
 on:  
   workflow_dispatch:
   schedule:
-    - cron:  '30 8 * * *'
+    - cron:  '30 4 * * 1-5'
 
 jobs:
   email:
@@ -32,7 +32,7 @@ jobs:
         # Optional (recommended) mail server password:
         password: ${{secrets.MAIL_PASSWORD}}
         # Required mail subject:
-        subject: Github Actions job result
+        subject: Court Calendar Webscrape for {{env.TODAY}} at 8:00 am
         # Required recipients' addresses:
         to: nmcmillan@npr.org
         # Required sender full name (address can be skipped):
@@ -40,7 +40,7 @@ jobs:
         # Optional whether this connection use TLS (default is true if server_port is 465)
         secure: true
         # Optional plain body:
-        body: Attached to this email is the csv of the court calendar captured at 8:00 am today.         
+        body: Attached to this email is the csv of the court calendar captured at 8:00 am on {{env.TODAY}}.         
         # body: Build job of ${{github.repository}} completed successfully!
         # Optional HTML body read from file:
         # html_body: file://README.html
