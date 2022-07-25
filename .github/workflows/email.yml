@@ -40,7 +40,8 @@ jobs:
         # Optional whether this connection use TLS (default is true if server_port is 465)
         secure: true
         # Optional plain body:
-        body: Build job of ${{github.repository}} completed successfully!
+        body: Attached to this email is the csv of the court calendar captured at 8:00 am today.         
+        # body: Build job of ${{github.repository}} completed successfully!
         # Optional HTML body read from file:
         # html_body: file://README.html
         # Optional carbon copy recipients:
@@ -56,7 +57,7 @@ jobs:
         # Optional converting Markdown to HTML (set content_type to text/html too):
         convert_markdown: true
         # Optional attachments:
-        attachments: ./data/days/2022-07-25-court_calendar.csv
+        attachments: ./data/days/${{env.TODAY}}-court_calendar.csv
         # Optional priority: 'high', 'normal' (default) or 'low'
         # priority: low      
 
