@@ -16,7 +16,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 18-cr-0333:  USA v. SNOWDEN,Judge Reggie B. Walton,12:00PM,Courtroom 16- In Person,Preliminary Revocation Hearing,18-cr-0333,  USA v. SNOWDEN,2022-12-21
 22-mj-0276:  USA v. MILLER,Mag. Judge Moxila A. Upadhyaya,12:30PM,Courtroom 5- In Person,Detention Hearing,22-mj-0276,  USA v. MILLER,2022-12-21
 20-cr-0265:  USA v. GRAHAM,Judge Amit P. Mehta,01:00PM,Courtroom 10- In Person,Re-entry Progress Hearing,20-cr-0265,  USA v. GRAHAM,2022-12-21
-22-cr-0298:  USA v. WEST,Judge Jia M. Cobb,02:00PM,Telephonic/VTC,Status Conference,22-cr-0298,  USA v. WEST,2022-12-21
 21-cr-0248:  USA v. MILEUR,Judge Randolph D. Moss,02:00PM,Telephonic/VTC,Plea Agreement Hearing,21-cr-0248,  USA v. MILEUR,2022-12-21
 21-cr-0248:  ,Judge Randolph D. Moss,02:00PM,Telephonic/VTC,Plea Agreement Hearing,21-cr-0248,  ,2022-12-21
 21-cr-0248:  ,Judge Randolph D. Moss,02:00PM,Telephonic/VTC,Plea Agreement Hearing,21-cr-0248,  ,2022-12-21
@@ -25,4 +24,8 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 21-cr-0022:  USA v. GRIDER,Judge Colleen Kollar-Kotelly,03:30PM,Courtroom 28A- In Person,Bench Trial,21-cr-0022,  USA v. GRIDER,2022-12-21
 21-cr-0599:  USA v. WREN,Judge Reggie B. Walton,03:30PM,Telephonic/VTC,Arraignment,21-cr-0599,  USA v. WREN,2022-12-21
 21-cr-0599:  USA v. SMITH,Judge Reggie B. Walton,03:30PM,Telephonic/VTC,Arraignment,21-cr-0599,  USA v. SMITH,2022-12-21
+22-cr-0015:  USA v. MINUTA,Judge Amit P. Mehta,04:00PM,Telephonic/VTC,Status Conference,22-cr-0015,  USA v. MINUTA,2022-12-21
+22-cr-0015:  USA v. HACKETT,Judge Amit P. Mehta,04:00PM,Telephonic/VTC,Status Conference,22-cr-0015,  USA v. HACKETT,2022-12-21
+22-cr-0015:  USA v. MOERSCHEL,Judge Amit P. Mehta,04:00PM,Telephonic/VTC,Status Conference,22-cr-0015,  USA v. MOERSCHEL,2022-12-21
+22-cr-0015:  USA v. VALLEJO,Judge Amit P. Mehta,04:00PM,Telephonic/VTC,Status Conference,22-cr-0015,  USA v. VALLEJO,2022-12-21
 21-cr-0028:  USA v. ISAACS,Judge Amit P. Mehta,04:30PM,Telephonic/VTC,Discovery Hearing,21-cr-0028,  USA v. ISAACS,2022-12-21
