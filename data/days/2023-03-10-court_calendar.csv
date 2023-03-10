@@ -2,8 +2,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 22-cr-0014:  USA v. WALDEN,Judge Amit P. Mehta,08:45AM,Telephonic/VTC,Status Conference,22-cr-0014,  USA v. WALDEN,2023-03-10
 22-cr-0185:  USA v. ST CYR,Judge John D. Bates,09:00AM,Courtroom 30A- In Person,Jury Trial,22-cr-0185,  USA v. ST CYR,2023-03-10
 19-cv-1419:  EARLE v. UNITED STATES SECURITIES AND EXCHANGE COMMISSION et al,Judge Colleen Kollar-Kotelly,09:00AM,Telephonic/VTC,Scheduling Conference,19-cv-1419,  EARLE v. UNITED STATES SECURITIES AND EXCHANGE COMMISSION et al,2023-03-10
-21-cr-0447:  USA v. DOOLIN,Judge Carl J. Nichols,09:00AM,Courtroom 17- In Person,Bench Trial,21-cr-0447,  USA v. DOOLIN,2023-03-10
-21-cr-0447:  USA v. PERKINS,Judge Carl J. Nichols,09:00AM,Courtroom 17- In Person,Bench Trial,21-cr-0447,  USA v. PERKINS,2023-03-10
 19-cr-0255:  USA v. GOODING,Judge Tanya S. Chutkan,09:30AM,Courtroom 9- In Person,Jury Trial,19-cr-0255,  USA v. GOODING,2023-03-10
 21-cr-0123:  USA v. GOSSJANKOWSKI,Judge Paul L. Friedman,09:30AM,Courtroom 29A- In Person,Jury Trial,21-cr-0123,  USA v. GOSSJANKOWSKI,2023-03-10
 22-cr-0331:  USA v. WILSON,Chief Judge Beryl A. Howell,09:30AM,Courtroom 26A- In Person,Status Conference,22-cr-0331,  USA v. WILSON,2023-03-10
@@ -19,25 +17,16 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 "22-cv-0591:  SANDERS et al v. IBEX GLOBAL SOLUTIONS, INC. et al",Judge Trevor N. McFadden,10:00AM,Courtroom 2- In Person,Status Conference,22-cv-0591,"  SANDERS et al v. IBEX GLOBAL SOLUTIONS, INC. et al",2023-03-10
 23-cv-0325:  SIDAK v. U.S. INTERNATIONAL TRADE COMMISSION et al,Judge Trevor N. McFadden,10:30AM,Courtroom 2- In Person,Motion Hearing,23-cv-0325,  SIDAK v. U.S. INTERNATIONAL TRADE COMMISSION et al,2023-03-10
 22-cr-0101:  USA v. THOMAS,Judge Colleen Kollar-Kotelly,11:00AM,Telephonic/VTC,Status Conference,22-cr-0101,  USA v. THOMAS,2023-03-10
-22-cr-0151:  USA v. CUFFEY,Judge Royce C. Lamberth,11:00AM,Courtroom 15- In Person,Sentencing,22-cr-0151,  USA v. CUFFEY,2023-03-10
-10-cv-1743:  WANG v. NEW MIGHTY U.S. TRUST et al,Judge James E. Boasberg,11:30AM,Telephonic/VTC,Status Conference,10-cv-1743,  WANG v. NEW MIGHTY U.S. TRUST et al,2023-03-10
-16-cr-0073:  USA v. WRIGHT,Judge Rudolph Contreras,01:00PM,Telephonic/VTC,Preliminary Revocation Hearing,16-cr-0073,  USA v. WRIGHT,2023-03-10
 20-cr-0097:  USA v. SHAH,Judge Colleen Kollar-Kotelly,01:30PM,Courtroom 28A- In Person,Sentencing,20-cr-0097,  USA v. SHAH,2023-03-10
-18-cr-0228:  USA v. GREEN,Judge Amit P. Mehta,01:30PM,Telephonic/VTC,Re-entry Progress Hearing,18-cr-0228,  USA v. GREEN,2023-03-10
 22-cr-0357:  USA v. ALLEN,Judge Amit P. Mehta,01:45PM,Telephonic/VTC,Status Conference,22-cr-0357,  USA v. ALLEN,2023-03-10
 22-cr-0357:  USA v. HAMPTON,Judge Amit P. Mehta,01:45PM,Telephonic/VTC,Status Conference,22-cr-0357,  USA v. HAMPTON,2023-03-10
-"22-cv-3429:  APEX PRO, LLC v. SURETEC INSURANCE COMPANY et al",Judge James E. Boasberg,02:00PM,Telephonic/VTC,Scheduling Conference,22-cv-3429,"  APEX PRO, LLC v. SURETEC INSURANCE COMPANY et al",2023-03-10
 20-cr-0088:  USA v. WILLIAMS,Judge Jia M. Cobb,02:00PM,Courtroom 21- In Person,Sentencing,20-cr-0088,  USA v. WILLIAMS,2023-03-10
-19-cr-0224:  USA v. RODRIGUEZ,Judge Timothy J. Kelly,02:00PM,Telephonic/VTC,Status Conference,19-cr-0224,  USA v. RODRIGUEZ,2023-03-10
-19-cr-0224:  USA v. ALMONTE,Judge Timothy J. Kelly,02:00PM,Telephonic/VTC,Status Conference,19-cr-0224,  USA v. ALMONTE,2023-03-10
 22-cr-0290:  USA v. SORELLE,Judge Amit P. Mehta,02:00PM,Telephonic/VTC,Status Conference,22-cr-0290,  USA v. SORELLE,2023-03-10
 06-cr-0089:  USA v. TRABELSI,Judge Randolph D. Moss,02:00PM,Courtroom 8- In Person,Status Conference,06-cr-0089,  USA v. TRABELSI,2023-03-10
-22-cr-0350:  USA v. ADAMS,Judge James E. Boasberg,02:30PM,Telephonic/VTC,Status Conference,22-cr-0350,  USA v. ADAMS,2023-03-10
 21-cr-0040:  USA v. STEVENS,Judge Trevor N. McFadden,02:30PM,Courtroom 2- In Person,Sentencing,21-cr-0040,  USA v. STEVENS,2023-03-10
 17-cr-0058:  USA v. QUEEN,Judge Trevor N. McFadden,02:30PM,Courtroom 2- In Person,Re-entry Progress Hearing,17-cr-0058,  USA v. QUEEN,2023-03-10
 23-cv-0018:  SMITH v. DISTRICT OF COLUMBIA,Judge Amit P. Mehta,02:30PM,Telephonic/VTC,Scheduling Conference,23-cv-0018,  SMITH v. DISTRICT OF COLUMBIA,2023-03-10
 "15-cv-0728:  VERMONT NATIONAL TELEPHONE COMPANY v. NORTHSTAR WIRELESS, LLC et al",Mag. Judge Moxila A. Upadhyaya,02:30PM,Courtroom 5- In Person,Status Conference,15-cv-0728,"  VERMONT NATIONAL TELEPHONE COMPANY v. NORTHSTAR WIRELESS, LLC et al",2023-03-10
-21-cr-0352:  USA v. BRU,Judge James E. Boasberg,02:45PM,Telephonic/VTC,Status Conference,21-cr-0352,  USA v. BRU,2023-03-10
 22-cr-0229:  USA v. LITTLE,Judge Amit P. Mehta,03:00PM,Courtroom 10- In Person,Sentencing,22-cr-0229,  USA v. LITTLE,2023-03-10
 23-cr-0060:  USA v. KEEN,Judge Jia M. Cobb,03:30PM,Telephonic/VTC,Arraignment,23-cr-0060,  USA v. KEEN,2023-03-10
 22-cr-0038:  USA v. EICHER,Judge Colleen Kollar-Kotelly,04:00PM,Telephonic/VTC,Status Conference,22-cr-0038,  USA v. EICHER,2023-03-10
@@ -45,4 +34,3 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 21-cr-0245:  USA v. JENKINS,Judge Amit P. Mehta,04:00PM,Courtroom 10- In Person,Pretrial Conference,21-cr-0245,  USA v. JENKINS,2023-03-10
 21-cr-0221:  USA v. BLUE,Judge Carl J. Nichols,04:00PM,Telephonic/VTC,Motion Hearing,21-cr-0221,  USA v. BLUE,2023-03-10
 21-cr-0221:  USA v. BLUE,Judge Carl J. Nichols,04:00PM,Telephonic/VTC,Pretrial Conference,21-cr-0221,  USA v. BLUE,2023-03-10
-21-cr-0292:  USA v. WORRELL,Judge Royce C. Lamberth,04:15PM,Courtroom 15- In Person,Status Conference,21-cr-0292,  USA v. WORRELL,2023-03-10
