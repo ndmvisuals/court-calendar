@@ -5,7 +5,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 21-cr-0175:  USA v. TARRIO,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. TARRIO,2023-03-16
 21-cr-0175:  USA v. PEZZOLA,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. PEZZOLA,2023-03-16
 "21-cr-0244:  USA v. GRIFFITH, SR",Judge Colleen Kollar-Kotelly,09:00AM,Courtroom 28A- In Person,Bench Trial,21-cr-0244,"  USA v. GRIFFITH, SR",2023-03-16
-22-cr-0401:  USA v. MINOR,Judge Amit P. Mehta,09:00AM,Courtroom 10- In Person,Plea Agreement Hearing,22-cr-0401,  USA v. MINOR,2023-03-16
 21-cr-0123:  USA v. GOSSJANKOWSKI,Judge Paul L. Friedman,09:30AM,Courtroom 29A- In Person,Jury Deliberation,21-cr-0123,  USA v. GOSSJANKOWSKI,2023-03-16
 21-cr-0028:  USA v. PARKER,Judge Amit P. Mehta,09:30AM,Courtroom 10- In Person,Jury Deliberation,21-cr-0028,  USA v. PARKER,2023-03-16
 21-cr-0028:  USA v. PARKER,Judge Amit P. Mehta,09:30AM,Courtroom 10- In Person,Jury Deliberation,21-cr-0028,  USA v. PARKER,2023-03-16
@@ -16,20 +15,14 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 19-cr-0158:  USA v. DE MOYA,Judge Reggie B. Walton,09:30AM,Courtroom 16- In Person,Pretrial Conference,19-cr-0158,  USA v. DE MOYA,2023-03-16
 19-cr-0158:  USA v. MERRITT,Judge Reggie B. Walton,09:30AM,Courtroom 16- In Person,Pretrial Conference,19-cr-0158,  USA v. MERRITT,2023-03-16
 "19-cv-1080:  FEDERAL TRADE COMMISSION v. SURESCRIPTS, LLC",Judge John D. Bates,10:00AM,Courtroom 30A- In Person,Motion Hearing,19-cv-1080,"  FEDERAL TRADE COMMISSION v. SURESCRIPTS, LLC",2023-03-16
-22-cv-1165:  DAHLSTROM et al v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY,Judge Jia M. Cobb,10:00AM,Courtroom 21- In Person,Motion Hearing,22-cv-1165,  DAHLSTROM et al v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY,2023-03-16
 21-cv-1489:  JEFFERSON v. AUSTIN,Judge Rudolph Contreras,10:00AM,Telephonic/VTC,Status Conference,21-cv-1489,  JEFFERSON v. AUSTIN,2023-03-16
-21-cv-1489:  JEFFERSON v. AUSTIN,Judge Rudolph Contreras,10:00AM,Telephonic/VTC,Telephone Conference,21-cv-1489,  JEFFERSON v. AUSTIN,2023-03-16
 21-cr-0689:  USA v. HAMNER,Judge Amy B. Jackson,10:00AM,Courtroom 3- In Person,Status Conference,21-cr-0689,  USA v. HAMNER,2023-03-16
 21-cv-1054:  CATO INSTITUTE v. FEDERAL BUREAU OF INVESTIGATION et al,Judge Randolph D. Moss,10:00AM,Telephonic/VTC,Motion Hearing,21-cv-1054,  CATO INSTITUTE v. FEDERAL BUREAU OF INVESTIGATION et al,2023-03-16
-"20-cv-3155:  HUAWEI TECHNOLOGIES CO., LTD. et al v. U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT et al",Judge Reggie B. Walton,10:00AM,Telephonic/VTC,Status Conference,20-cv-3155,"  HUAWEI TECHNOLOGIES CO., LTD. et al v. U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT et al",2023-03-16
-23-cr-0068:  USA v. FARRIS,Judge Amy B. Jackson,10:30AM,Telephonic/VTC,Arraignment,23-cr-0068,  USA v. FARRIS,2023-03-16
-23-cr-0068:  USA v. FARRIS,Judge Amy B. Jackson,10:30AM,Telephonic/VTC,Status Conference,23-cr-0068,  USA v. FARRIS,2023-03-16
 "19-cv-0046:  VALORES MUNDIALES, S.L. et al v. BOLIVARIAN REPUBLIC OF VENEZUELA",Judge Ana C. Reyes,10:30AM,Courtroom 11- In Person,Status Conference,19-cv-0046,"  VALORES MUNDIALES, S.L. et al v. BOLIVARIAN REPUBLIC OF VENEZUELA",2023-03-16
-22-cr-0149:  USA v. ZOYGANELES,Judge James E. Boasberg,11:00AM,Telephonic/VTC,Status Conference,22-cr-0149,  USA v. ZOYGANELES,2023-03-16
 22-cr-0164:  USA v. SMITH,Judge Reggie B. Walton,11:00AM,Courtroom 16- In Person,Sentencing,22-cr-0164,  USA v. SMITH,2023-03-16
-"22-cv-3429:  APEX PRO, LLC v. SURETEC INSURANCE COMPANY et al",Judge James E. Boasberg,11:30AM,Telephonic/VTC,Scheduling Conference,22-cv-3429,"  APEX PRO, LLC v. SURETEC INSURANCE COMPANY et al",2023-03-16
 23-cr-0077:  USA v. SCHULZ,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Initial Appearance,23-cr-0077,  USA v. SCHULZ,2023-03-16
 23-mj-0052:  USA v. COOK,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Initial Appearance,23-mj-0052,  USA v. COOK,2023-03-16
+23-mj-0051:  USA v. MACKRELL,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Initial Appearance,23-mj-0051,  USA v. MACKRELL,2023-03-16
 22-cr-0355:  USA v. FOSTER,Judge Carl J. Nichols,01:00PM,Courtroom 19- In Person,Sentencing,22-cr-0355,  USA v. FOSTER,2023-03-16
 23-cr-0056:  USA v. MELLORS,Judge James E. Boasberg,02:00PM,Telephonic/VTC,Status Conference,23-cr-0056,  USA v. MELLORS,2023-03-16
 21-cr-0294:  USA v. VOROUS,Judge Rudolph Contreras,02:00PM,Telephonic/VTC,Status Conference,21-cr-0294,  USA v. VOROUS,2023-03-16
