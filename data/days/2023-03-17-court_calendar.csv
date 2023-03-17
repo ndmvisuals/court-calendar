@@ -1,10 +1,5 @@
 Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 23-cr-0012:  USA v. GLENMORE JR,Judge James E. Boasberg,09:00AM,Courtroom 22A- In Person,Status Conference,23-cr-0012,  USA v. GLENMORE JR,2023-03-17
-21-cr-0175:  USA v. NORDEAN,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. NORDEAN,2023-03-17
-21-cr-0175:  USA v. BIGGS,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. BIGGS,2023-03-17
-21-cr-0175:  USA v. REHL,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. REHL,2023-03-17
-21-cr-0175:  USA v. TARRIO,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. TARRIO,2023-03-17
-21-cr-0175:  USA v. PEZZOLA,Judge Timothy J. Kelly,09:00AM,Courtroom 24A- In Person,Jury Trial,21-cr-0175,  USA v. PEZZOLA,2023-03-17
 "21-cr-0244:  USA v. GRIFFITH, SR",Judge Colleen Kollar-Kotelly,09:00AM,Courtroom 28A- In Person,Bench Trial,21-cr-0244,"  USA v. GRIFFITH, SR",2023-03-17
 18-cr-0228:  USA v. GREEN,Judge Amit P. Mehta,09:00AM,Telephonic/VTC,Re-entry Progress Hearing,18-cr-0228,  USA v. GREEN,2023-03-17
 22-cr-0266:  USA v. STAPLES,Judge Reggie B. Walton,09:15AM,Courtroom 16- In Person,Re-entry Progress Hearing,22-cr-0266,  USA v. STAPLES,2023-03-17
@@ -19,7 +14,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 "18-cv-2080:  SMITH v. ATHENA CONSTRUCTION GROUP, INC.",Judge Amit P. Mehta,10:00AM,Telephonic/VTC,Status Conference,18-cv-2080,"  SMITH v. ATHENA CONSTRUCTION GROUP, INC.",2023-03-17
 21-cv-3234:  UNITED STATES OF AMERICA v. ALL PETROLEUM-PRODUCT CARGO ONBOARD THE M/T ARINA WITH INTERNATIONAL MARITIME ORGANIZATION NUMBER 9189952,Judge Randolph D. Moss,10:00AM,Courtroom 8- In Person,Motion Hearing,21-cv-3234,  UNITED STATES OF AMERICA v. ALL PETROLEUM-PRODUCT CARGO ONBOARD THE M/T ARINA WITH INTERNATIONAL MARITIME ORGANIZATION NUMBER 9189952,2023-03-17
 21-cv-2817:  UNITED STATES OF AMERICA v. ALL PETROLEUM-PRODUCT CARGO ONBOARD THE M/T NOSTOS WITH INTERNATIONAL MARITIME ORGANIZATION NUMBER 9258014,Judge Randolph D. Moss,10:00AM,Courtroom 8- In Person,Motion Hearing,21-cv-2817,  UNITED STATES OF AMERICA v. ALL PETROLEUM-PRODUCT CARGO ONBOARD THE M/T NOSTOS WITH INTERNATIONAL MARITIME ORGANIZATION NUMBER 9258014,2023-03-17
-23-cr-0054:  USA v. BYRD,Judge Tanya S. Chutkan,10:30AM,Telephonic/VTC,Status Conference,23-cr-0054,  USA v. BYRD,2023-03-17
 23-cr-0005:  USA v. CHRISTIE,Judge Amit P. Mehta,10:30AM,Telephonic/VTC,Status Conference,23-cr-0005,  USA v. CHRISTIE,2023-03-17
 21-cr-0140:  USA v. BROCK,Judge John D. Bates,11:00AM,Courtroom 30A- In Person,Sentencing,21-cr-0140,  USA v. BROCK,2023-03-17
 22-cr-0230:  USA v. JACKSON,Judge Rudolph Contreras,11:00AM,Telephonic/VTC,Status Conference,22-cr-0230,  USA v. JACKSON,2023-03-17
@@ -34,7 +28,7 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 21-cr-0465:  USA v. MOBERY,Judge Dabney L. Friedrich,01:30PM,Courtroom 14- In Person,Status Conference,21-cr-0465,  USA v. MOBERY,2023-03-17
 21-cr-0465:  USA v. WOODEN,Judge Dabney L. Friedrich,01:30PM,Courtroom 14- In Person,Status Conference,21-cr-0465,  USA v. WOODEN,2023-03-17
 21-cr-0163:  USA v. OGANDO,Judge John D. Bates,02:00PM,Courtroom 30A- In Person,Sentencing,21-cr-0163,  USA v. OGANDO,2023-03-17
-22-cr-0001:  USA v. SHAW,Judge James E. Boasberg,02:00PM,Courtroom 22A- In Person,Sentencing,22-cr-0001,  USA v. SHAW,2023-03-17
+22-cr-0001:  USA v. SHAW,Judge James E. Boasberg,02:00PM,Telephonic/VTC,Sentencing,22-cr-0001,  USA v. SHAW,2023-03-17
 21-cr-0537:  USA v. SAMSEL,Judge Jia M. Cobb,02:00PM,Telephonic/VTC,Status Conference,21-cr-0537,  USA v. SAMSEL,2023-03-17
 21-cr-0537:  USA v. GRANT,Judge Jia M. Cobb,02:00PM,Telephonic/VTC,Status Conference,21-cr-0537,  USA v. GRANT,2023-03-17
 21-cr-0537:  USA v. JOHNSON,Judge Jia M. Cobb,02:00PM,Telephonic/VTC,Status Conference,21-cr-0537,  USA v. JOHNSON,2023-03-17
