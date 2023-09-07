@@ -1,27 +1,18 @@
 Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
-17-cr-0051:  USA v. FLORES-HERNANDEZ,Judge Beryl A. Howell,09:00AM,Courtroom 26A- In Person,Presentence Hearing,17-cr-0051,  USA v. FLORES-HERNANDEZ,2023-09-07
 22-cr-0096:  USA v. DARNEL,Judge Colleen Kollar-Kotelly,09:00AM,Courtroom 28A- In Person,Jury Trial,22-cr-0096,  USA v. DARNEL,2023-09-07
 22-cr-0096:  USA v. MARSHALL,Judge Colleen Kollar-Kotelly,09:00AM,Courtroom 28A- In Person,Jury Trial,22-cr-0096,  USA v. MARSHALL,2023-09-07
 22-cr-0096:  USA v. BELL,Judge Colleen Kollar-Kotelly,09:00AM,Courtroom 28A- In Person,Jury Trial,22-cr-0096,  USA v. BELL,2023-09-07
 23-cr-0094:  USA v. ENGLISH,Judge Amit P. Mehta,09:00AM,Courtroom 10- In Person,Status Conference,23-cr-0094,  USA v. ENGLISH,2023-09-07
-19-cv-1173:  DOE v. DISTRICT OF COLUMBIA,Judge Carl J. Nichols,09:00AM,Courtroom 17- In Person,Jury Trial,19-cv-1173,  DOE v. DISTRICT OF COLUMBIA,2023-09-07
-21-cr-0216:  USA v. BOZELL IV,Judge John D. Bates,09:15AM,Courtroom 30A- In Person,Bench Trial,21-cr-0216,  USA v. BOZELL IV,2023-09-07
-21-cr-0191:  USA v. ZINK,Chief Judge James E. Boasberg,09:30AM,Courtroom 22A- In Person,Jury Trial,21-cr-0191,  USA v. ZINK,2023-09-07
-21-cr-0190:  USA v. ALAM,Judge Dabney L. Friedrich,09:30AM,Courtroom 14- In Person,Jury Trial,21-cr-0190,  USA v. ALAM,2023-09-07
 23-cr-0077:  USA v. SCHULZ,Judge Amy B. Jackson,09:30AM,Telephonic/VTC,Sentencing,23-cr-0077,  USA v. SCHULZ,2023-09-07
 22-cr-0200:  USA v. NAVARRO,Judge Amit P. Mehta,09:30AM,Courtroom 10- In Person,Jury Trial,22-cr-0200,  USA v. NAVARRO,2023-09-07
 22-cr-0231:  USA v. PRUDEN,Judge Jia M. Cobb,10:00AM,Telephonic/VTC,Status Conference,22-cr-0231,  USA v. PRUDEN,2023-09-07
-19-cv-3682:  PETRUS v. DISTRICT OF COLUMBIA PUBLIC SCHOOLS et al,Judge Royce C. Lamberth,10:00AM,Courtroom 15- In Person,Jury Trial,19-cv-3682,  PETRUS v. DISTRICT OF COLUMBIA PUBLIC SCHOOLS et al,2023-09-07
 "19-cv-1737:  SERVICE EMPLOYEES INTERNATIONAL UNION NATIONAL INDUSTRY PENSION FUND et al v. HAMILTON PARK OPCO, LLC",Judge Randolph D. Moss,10:00AM,Telephonic/VTC,Status Conference,19-cv-1737,"  SERVICE EMPLOYEES INTERNATIONAL UNION NATIONAL INDUSTRY PENSION FUND et al v. HAMILTON PARK OPCO, LLC",2023-09-07
-21-cr-0399:  USA v. STERLINGOV,Judge Randolph D. Moss,10:00AM,Courtroom 8- In Person,Pretrial Conference,21-cr-0399,  USA v. STERLINGOV,2023-09-07
 22-cv-0223:  LONG v. ARCHITECT OF THE CAPITOL,Judge Jia M. Cobb,10:30AM,Courtroom 21- In Person,Status Conference,22-cv-0223,  LONG v. ARCHITECT OF THE CAPITOL,2023-09-07
 23-cr-0296:  USA v. HARDY,Mag. Judge Zia M. Faruqui,10:30AM,Courtroom 4- In Person,Arraignment,23-cr-0296,  USA v. HARDY,2023-09-07
 23-cr-0296:  USA v. HARDY,Mag. Judge Zia M. Faruqui,10:30AM,Courtroom 4- In Person,Detention Hearing,23-cr-0296,  USA v. HARDY,2023-09-07
 20-cv-0851:  AMERICAN UNIVERSITY OF KUWAIT v. AMERICAN UNIVERSITY,Judge Ana C. Reyes,10:30AM,Courtroom 12- In Person,Status Conference,20-cv-0851,  AMERICAN UNIVERSITY OF KUWAIT v. AMERICAN UNIVERSITY,2023-09-07
 21-cr-0453:  USA v. MCHUGH,Judge John D. Bates,11:00AM,Courtroom 30A- In Person,Sentencing,21-cr-0453,  USA v. MCHUGH,2023-09-07
 23-cr-0302:  USA v. CERON,Mag. Judge Zia M. Faruqui,11:30AM,Courtroom 4- In Person,Detention Hearing,23-cr-0302,  USA v. CERON,2023-09-07
-23-cr-0287:  USA v. MEACHAM,Judge John D. Bates,12:00PM,Telephonic/VTC,Arraignment,23-cr-0287,  USA v. MEACHAM,2023-09-07
-23-cr-0287:  USA v. MEACHAM,Judge John D. Bates,12:00PM,Telephonic/VTC,Status Conference,23-cr-0287,  USA v. MEACHAM,2023-09-07
 23-mj-0231:  USA v. PENALOZA,Mag. Judge Zia M. Faruqui,12:00PM,Telephonic/VTC,Control Status Hearing,23-mj-0231,  USA v. PENALOZA,2023-09-07
 23-mj-0005:  USA v. BRAY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Preliminary Hearing,23-mj-0005,  USA v. BRAY,2023-09-07
 23-mj-0005:  USA v. BRAY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Preliminary Hearing,23-mj-0005,  USA v. BRAY,2023-09-07
@@ -30,8 +21,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 23-cr-0084:  USA v. BARD,Judge Amit P. Mehta,01:15PM,Telephonic/VTC,Status Conference,23-cr-0084,  USA v. BARD,2023-09-07
 23-cr-0152:  USA v. SMITH,Judge Amy B. Jackson,01:30PM,Courtroom 25A- In Person,Arraignment,23-cr-0152,  USA v. SMITH,2023-09-07
 23-cr-0152:  USA v. SMITH,Judge Amy B. Jackson,01:30PM,Courtroom 25A- In Person,Motion Hearing,23-cr-0152,  USA v. SMITH,2023-09-07
-23-cr-0121:  USA v. MACHACEK,Judge Jia M. Cobb,02:00PM,Courtroom 21- In Person,Sentencing,23-cr-0121,  USA v. MACHACEK,2023-09-07
 22-cr-0137:  USA v. KING,Judge Rudolph Contreras,02:00PM,Courtroom 23A- In Person,Sentencing,22-cr-0137,  USA v. KING,2023-09-07
-20-mj-0027:  USA v. HENSLEY,Mag. Judge Robin M. Meriweather,02:00PM,Telephonic/VTC,Status Conference,20-mj-0027,  USA v. HENSLEY,2023-09-07
 18-cv-1753:  INFRASTRUCTURE SERVICES LUXEMBOURG S.A.R.L. et al v. KINGDOM OF SPAIN,Mag. Judge Moxila A. Upadhyaya,03:00PM,Telephonic/VTC,Status Conference,18-cv-1753,  INFRASTRUCTURE SERVICES LUXEMBOURG S.A.R.L. et al v. KINGDOM OF SPAIN,2023-09-07
 21-cr-0458:  USA v. CROSBY,Judge Richard J. Leon,03:30PM,Telephonic/VTC,Status Conference,21-cr-0458,  USA v. CROSBY,2023-09-07
