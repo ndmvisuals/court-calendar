@@ -2,11 +2,9 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 19-cr-0030:  USA v. SCOTT,Circuit Judge Robert L. Wilkins,02:00AM,Courtroom 24A- In Person,Status Conference,19-cr-0030,  USA v. SCOTT,2023-12-19
 22-cr-0409:  USA v. CLARK,Judge Amit P. Mehta,08:30AM,Telephonic/VTC,Discovery Hearing,22-cr-0409,  USA v. CLARK,2023-12-19
 23-cr-0374:  USA v. COSBY,Mag. Judge Zia M. Faruqui,09:00AM,Courtroom 4- In Person,Control Status Hearing,23-cr-0374,  USA v. COSBY,2023-12-19
-18-cr-0254:  USA v. VANISON,Judge Dabney L. Friedrich,09:00AM,Telephonic/VTC,Preliminary Revocation Hearing,18-cr-0254,  USA v. VANISON,2023-12-19
 21-cr-0612:  USA v. CHAMPION,Judge Amit P. Mehta,09:00AM,Courtroom 10- In Person,Status Conference,21-cr-0612,  USA v. CHAMPION,2023-12-19
 23-cr-0229:  USA v. TARANTO,Judge Carl J. Nichols,09:00AM,Courtroom 17- In Person,Status Conference,23-cr-0229,  USA v. TARANTO,2023-12-19
 23-cr-0346:  USA v. MCNEIL,Chief Judge James E. Boasberg,09:30AM,Courtroom 22A- In Person,Plea Agreement Hearing,23-cr-0346,  USA v. MCNEIL,2023-12-19
-23-cr-0374:  USA v. LUCAS,Mag. Judge Zia M. Faruqui,09:30AM,Courtroom 4- In Person,Detention Hearing,23-cr-0374,  USA v. LUCAS,2023-12-19
 23-cr-0202:  USA v. SIGNOU,Judge Beryl A. Howell,09:30AM,Courtroom 26- In Person,Plea Agreement Hearing,23-cr-0202,  USA v. SIGNOU,2023-12-19
 21-cr-0327:  USA v. COFFEE,Judge Rudolph Contreras,10:00AM,Telephonic/VTC,Pretrial Conference,21-cr-0327,  USA v. COFFEE,2023-12-19
 23-cr-0415:  USA v. MERRELL,Judge Christopher R. Cooper,10:00AM,Courtroom 27A- In Person,Arraignment,23-cr-0415,  USA v. MERRELL,2023-12-19
@@ -22,7 +20,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 23-cv-0763:  SERVICE EMPLOYEES INTERNATIONAL UNION NATIONAL INDUSTRY PENSION FUND et al v. VISTACARE LLC et al,Mag. Judge Moxila A. Upadhyaya,11:00AM,Telephonic/VTC,Discovery Hearing,23-cv-0763,  SERVICE EMPLOYEES INTERNATIONAL UNION NATIONAL INDUSTRY PENSION FUND et al v. VISTACARE LLC et al,2023-12-19
 23-cr-0108:  USA v. DILLON,Judge Tanya S. Chutkan,11:30AM,Telephonic/VTC,Plea Agreement Hearing,23-cr-0108,  USA v. DILLON,2023-12-19
 20-cr-0117:  USA v. LANE,Judge Dabney L. Friedrich,11:30AM,Courtroom 14- In Person,Preliminary Revocation Hearing,20-cr-0117,  USA v. LANE,2023-12-19
-23-cr-0237:  USA v. ST. ONGE,Judge Carl J. Nichols,11:30AM,Telephonic/VTC,Status Conference,23-cr-0237,  USA v. ST. ONGE,2023-12-19
 23-cr-0295:  USA v. DESMARAIS,Judge Reggie B. Walton,11:30AM,Courtroom 16- In Person,Status Conference,23-cr-0295,  USA v. DESMARAIS,2023-12-19
 18-cr-0111:  USA v. RICHARDSON,Judge Dabney L. Friedrich,12:30PM,Courtroom 14- In Person,Preliminary Revocation Hearing,18-cr-0111,  USA v. RICHARDSON,2023-12-19
 21-cr-0290:  USA v. SMITH,Judge Reggie B. Walton,12:30PM,Telephonic/VTC,Re-entry Progress Hearing,21-cr-0290,  USA v. SMITH,2023-12-19
@@ -39,6 +36,7 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 23-mj-0237:  USA v. BRADLEY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Status Conference,23-mj-0237,  USA v. BRADLEY,2023-12-19
 23-cr-0432:  USA v. CLARY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Status Conference,23-cr-0432,  USA v. CLARY,2023-12-19
 23-cr-0432:  USA v. CLARY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Status Conference,23-cr-0432,  USA v. CLARY,2023-12-19
+21-cr-0612:  USA v. CHAMPION,Judge Amit P. Mehta,01:00PM,Courtroom 10- In Person,Plea Agreement Hearing,21-cr-0612,  USA v. CHAMPION,2023-12-19
 21-cr-0565:  USA v. HAYAH,Judge Carl J. Nichols,01:00PM,Telephonic/VTC,Status Conference,21-cr-0565,  USA v. HAYAH,2023-12-19
 23-cr-0297:  USA v. CAIN,Judge Rudolph Contreras,01:30PM,Courtroom 23A- In Person,Status Conference,23-cr-0297,  USA v. CAIN,2023-12-19
 23-cr-0226:  USA v. KEEN,Judge Timothy J. Kelly,01:30PM,Telephonic/VTC,Status Conference,23-cr-0226,  USA v. KEEN,2023-12-19
@@ -57,7 +55,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 23-cr-0296:  USA v. JORDAN,Mag. Judge Zia M. Faruqui,03:00PM,Courtroom 4- In Person,Arraignment,23-cr-0296,  USA v. JORDAN,2023-12-19
 21-cr-0233:  USA v. NORWOOD III,Judge Carl J. Nichols,03:00PM,Telephonic/VTC,Status Conference,21-cr-0233,  USA v. NORWOOD III,2023-12-19
 22-cr-0221:  USA v. GABRINSKI,Judge Richard J. Leon,03:30PM,Courtroom 18- In Person,Status Conference,22-cr-0221,  USA v. GABRINSKI,2023-12-19
-20-cv-3244:  SPRINGS et al. v. BRAITHWAITE et al.,Judge Randolph D. Moss,03:30PM,Courtroom 8- In Person,Status Conference,20-cv-3244,  SPRINGS et al. v. BRAITHWAITE et al.,2023-12-19
 23-cr-0377:  USA v. JENKINS,Judge Randolph D. Moss,03:30PM,Courtroom 8- In Person,Status Conference,23-cr-0377,  USA v. JENKINS,2023-12-19
 23-cr-0296:  USA v. HARDY,Judge Richard J. Leon,04:00PM,Courtroom 18- In Person,Status Conference,23-cr-0296,  USA v. HARDY,2023-12-19
 23-cr-0296:  USA v. NORMAN,Judge Richard J. Leon,04:00PM,Courtroom 18- In Person,Status Conference,23-cr-0296,  USA v. NORMAN,2023-12-19
