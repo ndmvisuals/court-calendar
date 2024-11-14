@@ -1,21 +1,14 @@
 Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 21-cr-0237:  USA v. KLEIN,Judge Randolph D. Moss,09:00AM,Courtroom 8- In Person,Sentencing,21-cr-0237,  USA v. KLEIN,2024-11-14
-24-cr-0154:  USA v. HUNT,Judge Carl J. Nichols,09:00AM,Telephonic/VTC,Status Conference,24-cr-0154,  USA v. HUNT,2024-11-14
-24-cr-0154:  USA v. HILDEBRAND,Judge Carl J. Nichols,09:00AM,Telephonic/VTC,Status Conference,24-cr-0154,  USA v. HILDEBRAND,2024-11-14
-24-cr-0154:  USA v. SPOSITE,Judge Carl J. Nichols,09:00AM,Telephonic/VTC,Status Conference,24-cr-0154,  USA v. SPOSITE,2024-11-14
 24-cr-0488:  USA v. BORDEAU,Judge Amit P. Mehta,09:15AM,Telephonic/VTC,Arraignment,24-cr-0488,  USA v. BORDEAU,2024-11-14
 24-cr-0113:  USA v. GIRON,Judge Rudolph Contreras,09:30AM,Courtroom 23A- In Person,Status Conference,24-cr-0113,  USA v. GIRON,2024-11-14
 24-cr-0210:  USA v. BOSCH,Judge Dabney L. Friedrich,09:30AM,Courtroom 14- In Person,Jury Trial,24-cr-0210,  USA v. BOSCH,2024-11-14
-23-cr-0446:  USA v. DIGGS,Judge Beryl A. Howell,09:30AM,Courtroom 26A- In Person,Plea Agreement Hearing,23-cr-0446,  USA v. DIGGS,2024-11-14
-24-cr-0386:  USA v. SZABO,Judge Amy B. Jackson,09:30AM,Courtroom 25A- In Person,Status Conference,24-cr-0386,  USA v. SZABO,2024-11-14
 24-cr-0283:  USA v. HARRINGTON,Judge Amit P. Mehta,09:30AM,Courtroom 10- In Person,Status Conference,24-cr-0283,  USA v. HARRINGTON,2024-11-14
-24-cv-2024:  ROYSTER et al v. RAHNEMA et al,Judge Reggie B. Walton,09:30AM,Telephonic/VTC,Status Conference,24-cv-2024,  ROYSTER et al v. RAHNEMA et al,2024-11-14
 24-cr-0116:  USA v. MIDDENDORF,Chief Judge James E. Boasberg,10:00AM,Courtroom 22A- In Person,Plea Agreement Hearing,24-cr-0116,  USA v. MIDDENDORF,2024-11-14
 23-cv-2417:  ORTEGA v. MAYORKAS et al,Mag. Judge G. M. Harvey,10:00AM,Telephonic/VTC,Initial Conference,23-cv-2417,  ORTEGA v. MAYORKAS et al,2024-11-14
 20-cr-0153:  USA v. BRYANT,Judge Timothy J. Kelly,10:00AM,Courtroom 11- In Person,Preliminary Revocation Hearing,20-cr-0153,  USA v. BRYANT,2024-11-14
 24-cr-0417:  USA v. LAM,Judge Colleen Kollar-Kotelly,10:00AM,Courtroom 28A- In Person,Status Conference,24-cr-0417,  USA v. LAM,2024-11-14
 23-cr-0043:  USA v. MARTINEZ-MORA,Judge Trevor N. McFadden,10:00AM,Courtroom 2- In Person,Sentencing,23-cr-0043,  USA v. MARTINEZ-MORA,2024-11-14
-19-cr-0367:  USA v. THOMAS,Judge Trevor N. McFadden,10:00AM,Courtroom 2- In Person,Preliminary Revocation Hearing,19-cr-0367,  USA v. THOMAS,2024-11-14
 24-cr-0435:  USA v. THOMAS,Judge Trevor N. McFadden,10:00AM,Courtroom 2- In Person,Status Conference,24-cr-0435,  USA v. THOMAS,2024-11-14
 23-cr-0261:  USA v. ALLEN,Judge Amit P. Mehta,10:00AM,Courtroom 10- In Person,Sentencing,23-cr-0261,  USA v. ALLEN,2024-11-14
 24-cr-0291:  USA v. TATUM,Judge John D. Bates,10:30AM,Telephonic/VTC,Status Conference,24-cr-0291,  USA v. TATUM,2024-11-14
@@ -36,7 +29,6 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 24-mj-0239:  USA v. PRACHT,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Preliminary Hearing,24-mj-0239,  USA v. PRACHT,2024-11-14
 24-mj-0066:  USA v. DULANEY,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Status Conference,24-mj-0066,  USA v. DULANEY,2024-11-14
 24-cr-0459:  USA v. CARL,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Preliminary Hearing,24-cr-0459,  USA v. CARL,2024-11-14
-24-cr-0513:  USA v. JOYNT,Mag. Judge Zia M. Faruqui,01:00PM,Telephonic/VTC,Preliminary Hearing,24-cr-0513,  USA v. JOYNT,2024-11-14
 24-mj-0241:  USA v. WORKMAN,Mag. Judge G. M. Harvey,01:00PM,Telephonic/VTC,Preliminary Hearing,24-mj-0241,  USA v. WORKMAN,2024-11-14
 23-mj-0243:  USA v. CATTANI,Mag. Judge G. M. Harvey,01:00PM,Telephonic/VTC,Status Conference,23-mj-0243,  USA v. CATTANI,2024-11-14
 22-cr-0011:  USA v. BRETT,Judge Richard J. Leon,01:00PM,Courtroom 18- In Person,Bench Trial,22-cr-0011,  USA v. BRETT,2024-11-14
@@ -46,6 +38,8 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 19-cr-0175:  USA v. CARROLL,Judge Rudolph Contreras,02:00PM,Courtroom 23A- In Person,Preliminary Revocation Hearing,19-cr-0175,  USA v. CARROLL,2024-11-14
 24-mj-0345:  USA v. JOHNSON,Mag. Judge Zia M. Faruqui,02:00PM,Courtroom 4- In Person,Preliminary Hearing,24-mj-0345,  USA v. JOHNSON,2024-11-14
 24-cr-0517:  USA v. JOHNSON,Mag. Judge Zia M. Faruqui,02:00PM,Courtroom 4- In Person,Preliminary Hearing,24-cr-0517,  USA v. JOHNSON,2024-11-14
+24-cr-0503:  USA v. BELL,Mag. Judge Zia M. Faruqui,02:00PM,Courtroom 4- In Person,Arraignment,24-cr-0503,  USA v. BELL,2024-11-14
+24-cr-0503:  USA v. BELL,Mag. Judge Zia M. Faruqui,02:00PM,Courtroom 4- In Person,Detention Hearing,24-cr-0503,  USA v. BELL,2024-11-14
 23-cr-0239:  USA v. LICHTENSTEIN,Judge Colleen Kollar-Kotelly,02:00PM,Courtroom 28A- In Person,Sentencing,23-cr-0239,  USA v. LICHTENSTEIN,2024-11-14
 23-cv-0108:  LEMUS v. GROVER MONTANO CORP. et al,Mag. Judge Matthew J. Sharbaugh,02:00PM,Telephonic/VTC,Status Conference,23-cv-0108,  LEMUS v. GROVER MONTANO CORP. et al,2024-11-14
 24-cr-0500:  USA v. FLINT-SMITH,Judge Jia M. Cobb,02:30PM,Telephonic/VTC,Arraignment,24-cr-0500,  USA v. FLINT-SMITH,2024-11-14
