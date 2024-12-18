@@ -1,6 +1,6 @@
 Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
-10-cr-0051:  USA v. WADE,Mag. Judge Zia M. Faruqui,09:00AM,Telephonic/VTC,Status Conference,10-cr-0051,  USA v. WADE,2024-12-18
 24-cr-0026:  USA v. TURNER,Judge Amit P. Mehta,09:00AM,Courtroom 10- In Person,Status Conference,24-cr-0026,  USA v. TURNER,2024-12-18
+19-cr-0019:  USA v. GREEN,Judge Randolph D. Moss,09:00AM,Courtroom 8- In Person,Jury Trial,19-cr-0019,  USA v. GREEN,2024-12-18
 24-cr-0189:  USA v. GORDON,Chief Judge James E. Boasberg,09:30AM,Courtroom 22A- In Person,Jury Deliberation,24-cr-0189,  USA v. GORDON,2024-12-18
 21-cr-0032:  USA v. REFFITT,Judge Dabney L. Friedrich,09:30AM,Telephonic/VTC,Status Conference,21-cr-0032,  USA v. REFFITT,2024-12-18
 24-cr-0332:  USA v. MILLS,Judge Ana C. Reyes,09:30AM,Courtroom 12- In Person,Jury Trial,24-cr-0332,  USA v. MILLS,2024-12-18
@@ -8,13 +8,11 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 24-mj-0361:  USA v. CARROLL,Mag. Judge Zia M. Faruqui,10:00AM,Courtroom 4- In Person,Detention Hearing,24-mj-0361,  USA v. CARROLL,2024-12-18
 24-cr-0544:  USA v. CARROLL,Mag. Judge Zia M. Faruqui,10:00AM,Courtroom 4- In Person,Detention Hearing,24-cr-0544,  USA v. CARROLL,2024-12-18
 19-cr-0307:  USA v. SMITH,Judge Royce C. Lamberth,10:00AM,Courtroom 15- In Person,Revocation Superv Rls-FinalHrg,19-cr-0307,  USA v. SMITH,2024-12-18
-24-cv-2419:  WANG v. UNITED STATES POSTAL SERVICE,Judge Trevor N. McFadden,10:00AM,Courtroom 2- In Person,Motion Hearing,24-cv-2419,  WANG v. UNITED STATES POSTAL SERVICE,2024-12-18
 22-cr-0152:  USA v. WILSON,Judge Amit P. Mehta,10:00AM,Courtroom 10- In Person,Sentencing,22-cr-0152,  USA v. WILSON,2024-12-18
 21-cr-0046:  USA v. KNOWLTON,Judge Randolph D. Moss,10:00AM,Courtroom 8- In Person,Sentencing,21-cr-0046,  USA v. KNOWLTON,2024-12-18
 20-cv-1940:  BETHEL v. RODRIGUEZ et al,Mag. Judge Matthew J. Sharbaugh,10:00AM,Courtroom 7- In Person,Settlement Conference,20-cv-1940,  BETHEL v. RODRIGUEZ et al,2024-12-18
 21-cv-0724:  NORTON v. UNITED STATES OF AMERICA,Judge S. M. Teel,10:00AM,Telephonic/VTC,Settlement Conference,21-cv-0724,  NORTON v. UNITED STATES OF AMERICA,2024-12-18
 24-cr-0350:  USA v. CONNER,Judge Loren L. AliKhan,10:30AM,Courtroom 21- In Person,Status Conference,24-cr-0350,  USA v. CONNER,2024-12-18
-22-cr-0164:  USA v. HUNTER,Judge Reggie B. Walton,10:30AM,Telephonic/VTC,Re-entry Progress Hearing,22-cr-0164,  USA v. HUNTER,2024-12-18
 23-cv-2263:  JOHNSON v. UNITED STATES DEPARTMENT OF HEALTH & HUMAN SERVICES CENTERS FOR MEDICARE & MEDICAID SERVICES,Judge Loren L. AliKhan,11:00AM,Telephonic/VTC,Initial Conference,23-cv-2263,  JOHNSON v. UNITED STATES DEPARTMENT OF HEALTH & HUMAN SERVICES CENTERS FOR MEDICARE & MEDICAID SERVICES,2024-12-18
 16-cr-0198:  USA v. BIZZELL,Judge Reggie B. Walton,11:00AM,Telephonic/VTC,Re-entry Progress Hearing,16-cr-0198,  USA v. BIZZELL,2024-12-18
 24-cr-0228:  USA v. CAMPANELLA,Judge Loren L. AliKhan,11:30AM,Telephonic/VTC,Status Conference,24-cr-0228,  USA v. CAMPANELLA,2024-12-18
@@ -22,6 +20,7 @@ Case Number and Title,Judge,Time,Courtroom,Purpose,Case Number,Title,Date
 20-cr-0213:  USA v. BRAND,Mag. Judge Zia M. Faruqui,12:00PM,Telephonic/VTC,Status Conference,20-cr-0213,  USA v. BRAND,2024-12-18
 24-mj-0372:  USA v. KNIGHT,Mag. Judge Zia M. Faruqui,12:30PM,Courtroom 4- In Person,Preliminary Hearing,24-mj-0372,  USA v. KNIGHT,2024-12-18
 24-cr-0428:  USA v. TRIFILO,Judge Tanya S. Chutkan,01:00PM,Courtroom 9- In Person,Plea Agreement Hearing,24-cr-0428,  USA v. TRIFILO,2024-12-18
+24-cr-0428:  USA v. TRIFILO,Judge Tanya S. Chutkan,01:00PM,Courtroom 9- In Person,Arraignment,24-cr-0428,  USA v. TRIFILO,2024-12-18
 24-mj-0385:  USA v. MORGAN,Mag. Judge G. M. Harvey,01:00PM,Courtroom 6- In Person,Detention Hearing,24-mj-0385,  USA v. MORGAN,2024-12-18
 22-cv-0277:  PHILLIPS v. DISTRICT OF COLUMBIA,Mag. Judge Moxila A. Upadhyaya,01:00PM,Telephonic/VTC,Settlement Conference,22-cv-0277,  PHILLIPS v. DISTRICT OF COLUMBIA,2024-12-18
 21-cr-0395:  USA v. JACKSON,Judge Timothy J. Kelly,01:30PM,Courtroom 11- In Person,Plea and Sentence,21-cr-0395,  USA v. JACKSON,2024-12-18
