@@ -1,9 +1,9 @@
 name: email 
 
-on:  
-  workflow_dispatch:
-  schedule:
-    - cron:  '30 12 * * 1-5'
+# on:  
+#  workflow_dispatch:
+#  schedule:
+#    - cron:  '30 12 * * 1-5'
 
 jobs:
   email:
